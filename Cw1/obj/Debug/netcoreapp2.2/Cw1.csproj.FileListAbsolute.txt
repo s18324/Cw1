@@ -1,0 +1,11 @@
+Z:\APBD\Cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.deps.json
+Z:\APBD\Cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.runtimeconfig.json
+Z:\APBD\Cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.runtimeconfig.dev.json
+Z:\APBD\Cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.dll
+Z:\APBD\Cw1\Cw1\bin\Debug\netcoreapp2.2\Cw1.pdb
+Z:\APBD\Cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.csprojAssemblyReference.cache
+Z:\APBD\Cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.csproj.CoreCompileInputs.cache
+Z:\APBD\Cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.AssemblyInfoInputs.cache
+Z:\APBD\Cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.AssemblyInfo.cs
+Z:\APBD\Cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.dll
+Z:\APBD\Cw1\Cw1\obj\Debug\netcoreapp2.2\Cw1.pdb
